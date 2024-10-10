@@ -1,0 +1,6 @@
+wiremok sumula respostar de api
+ precisa de ter o java instalado
+ 
+ roda uma api para mok em ambiente local
+ na raiz do projeto rodar o wiremok java -jar wiremock-standalone-3.9.1.jar
+ 
