@@ -1,3 +1,4 @@
+Os arquivos de testes ficam dentro de mappings
 ## Projeto de mock da QAZANDO
 
 Esse projeto temos como exemplo uma api de carros.
